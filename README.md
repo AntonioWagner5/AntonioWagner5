@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Sou Antonio e estou cursando Ciencia da Computação no Anchieta.
 
 <!--
 **AntonioWagner5/AntonioWagner5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
